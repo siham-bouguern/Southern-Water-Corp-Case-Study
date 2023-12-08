@@ -1,4 +1,6 @@
 # Southern-Water-Corp-Case-Study
+![Screen Shot 2023-12-08 at 19 02 16](https://github.com/siham-bouguern/Southern-Water-Corp-Case-Study/assets/140173145/154b9338-1b64-482b-9711-10d32d4a2e63)
+
 ## Problem Statement
 What opportunity exists for Southern Water Corporation to increase revenue by studying the Cost to Produce water and resolve sizable discrepancies in the calendar year's budget?
 
