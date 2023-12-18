@@ -18,3 +18,6 @@ The management has asked to provide accountability and a detailed breakdown for 
 - Year-to-Date Variance Analysis for actual and budget figures
 - Cost to produce (CTP) drivers
 
+## Files Included
+- [.ipynb Notebook](https://github.com/siham-bouguern/Southern-Water-Corp-Case-Study/blob/main/Python_Southern_Water_Corp_Case_Study%20-%20BBDS_Siham_Bouguern.ipynb)
+- Dataset: [File 1](https://github.com/siham-bouguern/Southern-Water-Corp-Case-Study/blob/main/Desalination_Unit_File_001.csv), [File 2](https://github.com/siham-bouguern/Southern-Water-Corp-Case-Study/blob/main/Desalination_Unit_File_002.csv), [File 3](https://github.com/siham-bouguern/Southern-Water-Corp-Case-Study/blob/main/Desalination_Unit_File_003.csv)
